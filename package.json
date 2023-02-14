@@ -1,0 +1,14 @@
+{
+  "name": "fizzbuzz",
+  "version": "1.0.0",
+  "description": "Mi primera cata",
+  "main": "index.js",
+  "scripts": {
+    "test": "jest"
+  },
+  "author": "Lawayne84 <montserret@gmail.com>",
+  "license": "ISC",
+  "dependencies": {
+    "jest": "^29.4.2"
+  }
+}
